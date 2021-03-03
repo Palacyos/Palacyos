@@ -3,7 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-palacio-real/)](https://www.linkedin.com/in/thales-palacio-real/)
 
+Bachelor of Computer Science | Web Developer Associate's degree
 
+- I've been dedicating myself to web development for two years
 - I've been learn more about .NET Core | CSharp :infinity:
 - Always trying to keep me up-to-date with the market and improving my skills :monocle_face:
 
